@@ -1,0 +1,15 @@
+{
+  "name": "@matthamil/tools",
+  "version": "1.0.0",
+  "description": "List of developer tools that help me get the job done.",
+  "main": "index.js",
+  "repository": "git@github.com:matthamil/tools.git",
+  "author": "Matt Hamil",
+  "license": "MIT",
+  "scripts": {
+    "build": "doctoc README.md --github --maxlevel 3 --notitle"
+  },
+  "dependencies": {
+    "doctoc": "^2.1.0"
+  }
+}
