@@ -2,6 +2,7 @@
 <h1>tools 🛠📦</h1>
 
 <p>List of developer tools that help me get the job done.</p>
+</div>
 
 ---
 
